@@ -11,8 +11,8 @@ title: Hilt Text Analysis 2016
 description: > # this means to ignore newlines until "baseurl:"
     The syllabus form Katie Rawson and Scott Enderle's 2016 Text Analysis 
     class, including links to instructions, notebooks, and datasets.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://senderle.github.io/hilt-text-analysis" # the base hostname & protocol for your site
+baseurl: "/hilt-text-analysis" # the subpath of your site, e.g. /blog
+url: "http://senderle.github.io" # the base hostname & protocol for your site
 authors:
     senderle:
         name: Scott Enderle
