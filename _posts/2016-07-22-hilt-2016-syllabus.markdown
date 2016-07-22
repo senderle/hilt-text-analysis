@@ -5,24 +5,25 @@ date:   2016-07-08 12:38:37 -0400
 categories: syllabus
 ---
 
-* Day 1:
-    * Session 1:
-        1. Introductions
-        2. Course plan
-        3. What computers see
-    * Session 2:
-        1. Building a bridge between humanistic and computational assumptions about language
-        2. Humanities research questions and computational methods [[ppt](https://github.com/senderle/hilt-text-analysis/blob/master/Humanities%20research%20questions%20HILT%202016.pptx?raw=true)]
-    * Session 3:
-        1. Curating data sets I
-        2. Making a data set: Exercise 1 [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Making%20a%20Data%20Set%20-%20HILT%202016.pdf)]
-    * Session 4:
-        1. Curating data sets II
-        2. Making a data set: Exercise 2 [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Making%20a%20Data%20Set%20-%20HILT%202016.pdf)]
-* Day 2:
-    * Session 1:
-        1. Using an API: Chronicling America API [[jupyter notebook](https://github.com/senderle/hilt-text-analysis/blob/master/Chronicling%20America%20API.ipynb)]
-        2. Scraping: Wikipedia + Beautiful Soup [[jupyter notebook](https://github.com/senderle/hilt-text-analysis/blob/master/Beautiful%20Soup.ipynb)]
-    * Session 2:
+## **Day 1:**
+* **Session 1: Introductions**
+    1. Introductions
+    2. Course plan
+    3. What computers see
+* **Session 2: Intersections**
+    1. Building a bridge between humanistic and computational assumptions about language
+    2. Humanities research questions and computational methods <!-- [[ppt](https://github.com/senderle/hilt-text-analysis/blob/master/Humanities%20research%20questions%20HILT%202016.pptx?raw=true)] -->
+* **Session 3: Designing a Corpus**
+    1. Curating data sets 1
+    2. Exercise: Building a Corpus - An Intellectual Pursuit [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Making%20a%20Data%20Set%20-%20HILT%202016.pdf)]
+* **Session 4: Building a Corpus**
+    1. Curating data sets 2
+    2. Exercise: Building a Corpus - A Techno-Social Pursuit [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Making%20a%20Data%20Set%20-%20HILT%202016.pdf)]
+
+## **Day 2:**
+* **Session 1: Collecting Data**
+    1. Using an API: Chronicling America API [[jupyter notebook](https://github.com/senderle/hilt-text-analysis/blob/master/Chronicling%20America%20API.ipynb)]
+    2. Scraping: Wikipedia + Beautiful Soup [[jupyter notebook](https://github.com/senderle/hilt-text-analysis/blob/master/Beautiful%20Soup.ipynb)]
+* Session 2:
         
 
