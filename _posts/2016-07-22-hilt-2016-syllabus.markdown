@@ -35,7 +35,7 @@ categories: syllabus
 * **Session 1: Second Order Methods**
     1. Combining word count and context
 * **Session 2: Topic Modeling**
-    1. Topic modeling [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Topic%20Modeling%20Howto%20HILT%202016.pdf) [desktop-app](https://github.com/senderle/topic-modeling-tool)]
+    1. Topic modeling [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Topic%20Modeling%20Howto%20HILT%202016.pdf) [desktop-app](https://github.com/senderle/topic-modeling-tool) [data](https://github.com/senderle/hilt-text-analysis/raw/master/slave-narrative-topic-model.zip)]
 * **Session 3: Text Categorization**
     1. Text categorization
     2. Logistic regression with WEKA [[pdf](https://github.com/senderle/hilt-text-analysis/blob/master/Logistic%20Regression%20with%20Weka%20-%20HILT%202016.pdf) [desktop-app](http://www.cs.waikato.ac.nz/ml/weka/) [csv](https://github.com/senderle/hilt-text-analysis/tree/master/paceofchange-flat)]
@@ -50,5 +50,3 @@ categories: syllabus
     1. Preparing results
     2. Visualization
     3. Thinking about audience
-        
-
